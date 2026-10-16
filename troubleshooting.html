@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>故障排查全手册 · 节点全红/超时/ChatGPT1020风控秒级自救 · 良心云观察站 (lxyjc.com)</title>
+  <meta name="description" content="良心云观察站 (lxyjc.com) 基于网络 OSI 分层模型提供科学排障流程。深入解决节点批量 Timeout、系统时间戳误差、7890 端口冲突、WebRTC 真实 IP 侧漏、ChatGPT 1020 报错与晚高峰严重断流。">
+  <meta name="keywords" content="节点全红, 节点超时, 无法连接, ChatGPT 1020, WebRTC泄露, Clash排障, 无法上网, 7890端口冲突, lxyjc.com">
+  <meta name="theme-color" content="#f5f7f3">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+  <!-- Canonical & Alternate Links -->
+  <link rel="canonical" href="https://lxyjc.com/troubleshooting.html">
+  <link rel="alternate" hreflang="zh-CN" href="https://lxyjc.com/troubleshooting.html">
+  <link rel="alternate" hreflang="x-default" href="https://lxyjc.com/troubleshooting.html">
+
+  <!-- GEO & Regional Metadata -->
+  <meta name="geo.region" content="CN">
+  <meta name="geo.placename" content="China">
+  <meta name="geo.position" content="35.86166;104.195397">
+  <meta name="ICBM" content="35.86166, 104.195397">
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="良心云观察站">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://lxyjc.com/troubleshooting.html">
+  <meta property="og:title" content="故障排查全手册 · 节点全红/超时/ChatGPT1020风控秒级自救 · 良心云观察站">
+  <meta property="og:description" content="基于网络分层模型的全流程排障诊断手册。一站解决节点全红、时间戳校验、端口冲突与 WebRTC IP 泄漏。">
+  <meta property="og:locale" content="zh_CN">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="故障排查全手册 · 节点全红/超时/ChatGPT1020风控秒级自救 · 良心云观察站">
+  <meta name="twitter:description" content="基于网络分层模型的全流程排障诊断手册。一站解决节点全红、时间戳校验、端口冲突与 WebRTC IP 泄漏。">
+
+  <!-- Schema.org Structured Data (GEO / HowTo) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "网络代理节点全红与连不上故障排查 5 步法",
+    "description": "基于 OSI/TCP-IP 网络分层模型自底向上快速定位并修复网络代理故障。",
+    "step": [
+      { "@type": "HowToStep", "name": "第 1 层：物理网络连通性验证", "text": "断开代理直接访问国内高可用网站确认本地 Wi-Fi/宽带通畅。" },
+      { "@type": "HowToStep", "name": "第 2 层：服务商账户凭证与订阅有效性", "text": "登录机场后台核查套餐状态与流量，客户端强制刷新订阅。" },
+      { "@type": "HowToStep", "name": "第 3 层：系统时间 NTP 校验与端口排查", "text": "校准系统时间（误差小于 60 秒），排查 7890 端口冲突。" },
+      { "@type": "HowToStep", "name": "第 4 层：切换全局模式与 DNS 污染排查", "text": "切换全局模式排除规则误判，开启 Fake-IP 与 DoH 加密解析。" },
+      { "@type": "HowToStep", "name": "第 5 层：开启 TUN 虚拟网卡模式", "text": "开启 TUN 虚拟网卡驱动接管整机所有网络协议流量。" }
+    ]
+  }
+  </script>
+
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body data-page="troubleshooting">
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html" aria-label="返回首页"><span class="brand-mark">良</span><span class="brand-text">良心云观察站<small>Honest Cloud Index</small></span></a>
+      <nav class="main-nav" id="main-nav" aria-label="主导航"></nav>
+      <div class="header-actions">
+        <button class="icon-button search-button" id="search-button" aria-label="搜索"><span>⌕</span><span>搜索</span><kbd>Ctrl K</kbd></button>
+        <button class="menu-button" id="menu-button" aria-label="打开菜单">☰</button>
+      </div>
+    </div>
+  </header>
+  <div class="mobile-overlay" id="mobile-overlay"></div>
+  <div class="page-shell">
+    <aside class="left-sidebar" id="left-sidebar"></aside>
+    <main class="main-content" id="main-content"></main>
+    <aside class="right-sidebar"><div class="outline" id="outline"></div></aside>
+  </div>
+  <footer class="site-footer"><div class="footer-inner"><span>© <span id="year"></span> 良心云观察站 · 独立、透明、可复查</span><span>请遵守所在地法律法规，合理使用网络工具</span></div></footer>
+  <div class="search-modal" id="search-modal" role="dialog" aria-modal="true" aria-label="搜索栏目"><div class="search-panel"><div class="search-field"><span>⌕</span><input id="search-input" type="search" placeholder="搜索栏目或主题…" autocomplete="off"></div><div class="search-results" id="search-results"></div></div></div>
+  <script src="assets/content.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

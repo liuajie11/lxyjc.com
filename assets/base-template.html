@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="独立、透明、可复查的机场评测与网络工具知识库。">
+  <meta name="theme-color" content="#f5f7f3">
+  <title>良心云观察站</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body data-page="PAGE_KEY">
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html" aria-label="返回首页"><span class="brand-mark">良</span><span class="brand-text">良心云观察站<small>Honest Cloud Index</small></span></a>
+      <nav class="main-nav" id="main-nav" aria-label="主导航"></nav>
+      <div class="header-actions">
+        <button class="icon-button search-button" id="search-button" aria-label="搜索"><span>⌕</span><span>搜索</span><kbd>Ctrl K</kbd></button>
+        <button class="menu-button" id="menu-button" aria-label="打开菜单">☰</button>
+      </div>
+    </div>
+  </header>
+  <div class="mobile-overlay" id="mobile-overlay"></div>
+  <div class="page-shell">
+    <aside class="left-sidebar" id="left-sidebar"></aside>
+    <main class="main-content" id="main-content"></main>
+    <aside class="right-sidebar"><div class="outline" id="outline"></div></aside>
+  </div>
+  <footer class="site-footer"><div class="footer-inner"><span>© <span id="year"></span> 良心云观察站 · 独立、透明、可复查</span><span>请遵守所在地法律法规，合理使用网络工具</span></div></footer>
+  <div class="search-modal" id="search-modal" role="dialog" aria-modal="true" aria-label="搜索栏目"><div class="search-panel"><div class="search-field"><span>⌕</span><input id="search-input" type="search" placeholder="搜索栏目或主题…" autocomplete="off"></div><div class="search-results" id="search-results"></div></div></div>
+  <script src="assets/content.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
+

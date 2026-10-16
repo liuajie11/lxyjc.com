@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>常见问题库 · 购买决策/连接失败/速度慢/订阅防盗答疑 · 良心云观察站 (lxyjc.com)</title>
+  <meta name="description" content="良心云观察站 (lxyjc.com) 常见问题库。系统归纳购买前避坑、连接中断排障、测速很快看视频卡顿、订阅更新失败与订阅链接泄露应急自救 5 大高频痛点，提供最短恢复技术路径。">
+  <meta name="keywords" content="机场FAQ, 常见问题, 订阅更新失败, 测速快看视频卡, 订阅泄露, 机场安全, lxyjc.com">
+  <meta name="theme-color" content="#f5f7f3">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+  <!-- Canonical & Alternate Links -->
+  <link rel="canonical" href="https://lxyjc.com/faq.html">
+  <link rel="alternate" hreflang="zh-CN" href="https://lxyjc.com/faq.html">
+  <link rel="alternate" hreflang="x-default" href="https://lxyjc.com/faq.html">
+
+  <!-- GEO & Regional Metadata -->
+  <meta name="geo.region" content="CN">
+  <meta name="geo.placename" content="China">
+  <meta name="geo.position" content="35.86166;104.195397">
+  <meta name="ICBM" content="35.86166, 104.195397">
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="良心云观察站">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://lxyjc.com/faq.html">
+  <meta property="og:title" content="常见问题库 · 购买决策/连接失败/速度慢/订阅防盗答疑 · 良心云观察站">
+  <meta property="og:description" content="针对购买、连接、速度、订阅与账号安全五大高频痛点的科学自救知识库。">
+  <meta property="og:locale" content="zh_CN">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="常见问题库 · 购买决策/连接失败/速度慢/订阅防盗答疑 · 良心云观察站">
+  <meta name="twitter:description" content="针对购买、连接、速度、订阅与账号安全五大高频痛点的科学自救知识库。">
+
+  <!-- Schema.org Structured Data (GEO / FAQPage) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "购买机场前最应该注意哪些计费陷阱？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "务必恪守首月月付铁律，警惕年付折算虚假月付；购买前核查 1.0x 标准倍率节点占比，避免高倍率隐蔽扣费；确认客户端协议兼容性与官方售后响应渠道。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "导入订阅后节点全部显示超时或连不上怎么办？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "检查本地系统时间与北京时间误差是否超过 60 秒；排查 7890 端口冲突并清理僵尸内核；切换全局模式排查分流规则误判，或开启 Fake-IP 与加密 DoH。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "为什么测速跑满几百兆，看 4K 视频依然卡顿？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "瞬时带宽不等于持续吞吐。晚高峰公网丢包、开启 Mux 多路复用引发队头阻塞、本地 2.4GHz Wi-Fi 干扰或热门节点拥挤都会导致卡死，建议关闭 Mux 并换用 5G Wi-Fi。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "订阅更新失败提示网络错误如何恢复？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "开启客户端通过当前代理更新订阅选项破解阻断；登录后台重置订阅令牌；尽量使用机场原生订阅，避免不可靠的公共第三方订阅转换 API。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "订阅链接泄露被盗用如何紧急自救？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "立即登录用户中心点击重置订阅链接令旧链接瞬间失效；修改高强度密码并注销全设备会话；客户端删除旧配置并重新导入新链接。"
+        }
+      }
+    ]
+  }
+  </script>
+
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body data-page="faq">
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html" aria-label="返回首页"><span class="brand-mark">良</span><span class="brand-text">良心云观察站<small>Honest Cloud Index</small></span></a>
+      <nav class="main-nav" id="main-nav" aria-label="主导航"></nav>
+      <div class="header-actions">
+        <button class="icon-button search-button" id="search-button" aria-label="搜索"><span>⌕</span><span>搜索</span><kbd>Ctrl K</kbd></button>
+        <button class="menu-button" id="menu-button" aria-label="打开菜单">☰</button>
+      </div>
+    </div>
+  </header>
+  <div class="mobile-overlay" id="mobile-overlay"></div>
+  <div class="page-shell">
+    <aside class="left-sidebar" id="left-sidebar"></aside>
+    <main class="main-content" id="main-content"></main>
+    <aside class="right-sidebar"><div class="outline" id="outline"></div></aside>
+  </div>
+  <footer class="site-footer"><div class="footer-inner"><span>© <span id="year"></span> 良心云观察站 · 独立、透明、可复查</span><span>请遵守所在地法律法规，合理使用网络工具</span></div></footer>
+  <div class="search-modal" id="search-modal" role="dialog" aria-modal="true" aria-label="搜索栏目"><div class="search-panel"><div class="search-field"><span>⌕</span><input id="search-input" type="search" placeholder="搜索栏目或主题…" autocomplete="off"></div><div class="search-results" id="search-results"></div></div></div>
+  <script src="assets/content.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

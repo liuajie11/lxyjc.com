@@ -1,0 +1,51 @@
+# robots.txt for https://lxyjc.com/
+# 良心云观察站 (Honest Cloud Index) - 独立、透明、可复查的机场评测与网络工具知识库
+
+User-agent: *
+Allow: /
+Disallow: /scratch/
+Disallow: /*.json$
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+
+# Baiduspider
+User-agent: Baiduspider
+Allow: /
+
+# 360Spider
+User-agent: 360Spider
+Allow: /
+
+# Sogou web spider
+User-agent: Sogou web spider
+Allow: /
+
+# YisouSpider
+User-agent: YisouSpider
+Allow: /
+
+# AI Crawlers for Generative Engine Optimization (GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Canonical Sitemap and Host
+Sitemap: https://lxyjc.com/sitemap.xml
+Host: lxyjc.com

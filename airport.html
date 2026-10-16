@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>机场评测跳转 · 良心云观察站 (lxyjc.com)</title>
+  <meta name="robots" content="noindex, follow">
+  <link rel="canonical" href="https://lxyjc.com/reviews.html">
+  <script>
+    (function() {
+      const id = new URLSearchParams(location.search).get('id');
+      location.replace(id ? `reviews.html#review-${id}` : 'reviews.html');
+    })();
+  </script>
+</head>
+<body>
+  <p style="font-family:system-ui,sans-serif;padding:30px;color:#555;">正在前往评测档案...</p>
+</body>
+</html>
