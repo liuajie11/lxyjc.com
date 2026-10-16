@@ -4282,7 +4282,7 @@ window.SITE_CONTENT = {
         { id: "mission", kicker: "MISSION", title: "我们为什么做这个站", html: `<p>机场信息高度分散，价格口径混乱，测速截图也常缺少环境说明。本站希望用统一模板记录服务表现，帮助读者做出更稳妥的短期决策。</p><div class="callout">本站只提供信息整理与技术教育，不直接销售服务，也不承诺第三方服务的持续可用性。</div>` },
         { id: "principles", kicker: "EDITORIAL PRINCIPLES", title: "四条编辑原则", html: `<div class="card-grid"><article class="content-card"><div class="card-icon">01</div><h3>事实与观点分开</h3><p>可验证数据、用户反馈和编辑判断分别标注。</p></article><article class="content-card"><div class="card-icon">02</div><h3>统一测试口径</h3><p>相同设备、网络、时段和评分模板。</p></article><article class="content-card"><div class="card-icon">03</div><h3>风险优先披露</h3><p>先写限制、异常和不适用人群，再谈优点。</p></article><article class="content-card"><div class="card-icon">04</div><h3>保留修改记录</h3><p>重大结论更新说明日期、原因与证据。</p></article></div>` },
         { id: "business", kicker: "DISCLOSURE", title: "商业合作如何披露", html: `<p>赞助、邀请返佣、免费测试账号和广告位都会在页面显著位置注明。合作方不能提前审阅或修改评测结论；如无法满足这一点，我们将拒绝合作。</p>` },
-        { id: "correction", kicker: "CORRECTIONS", title: "如何提交更正", html: `<p>如果你发现价格、规则、运营状态或技术描述有误，请提供原始链接、截图和发生时间。核实后会更新正文，并在更正记录中说明变化。</p><div class="callout warning"><strong>联系占位：</strong> hello@example.com —— 上线前请替换为你的真实联系邮箱。</div>` }
+        { id: "correction", kicker: "CORRECTIONS", title: "如何提交更正", html: `<p>如果你发现价格、规则、运营状态或技术描述有误，请提供原始链接、截图和发生时间。核实后会更新正文，并在更正记录中说明变化。</p>` }
       ]
     }
   }
