@@ -161,7 +161,7 @@ window.SITE_CONTENT = {
                 <span class="tag">随心包 ¥99</span>
               </div>
               <div style="display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;">
-                <a class="btn btn-primary" href="https://youxia01.yunjiexianaff.com/#/?code=8ImGvubv" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
+                <a class="btn btn-primary" href="https://liuajie7.yunjiexianaff.com/#/?code=AMWirEkQ" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
                 <a class="btn btn-outline" href="reviews.html#review-yunjiexian">完整评测档案 →</a>
               </div>
             </article>
@@ -179,7 +179,7 @@ window.SITE_CONTENT = {
                 <span class="tag">年付 ¥96</span>
               </div>
               <div style="display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;">
-                <a class="btn btn-primary" href="https://liu01.dalaoyunaff.com/#/?code=9A9fbKzz" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
+                <a class="btn btn-primary" href="https://liujie2.dalaoyunaff.com/#/?code=mmPDuc6r" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
                 <a class="btn btn-outline" href="reviews.html#review-dalao">完整评测档案 →</a>
               </div>
             </article>
@@ -197,7 +197,7 @@ window.SITE_CONTENT = {
                 <span class="tag">不限时 ¥99</span>
               </div>
               <div style="display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;">
-                <a class="btn btn-primary" href="https://fugui0077.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
+                <a class="btn btn-primary" href="https://wuhan01.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
                 <a class="btn btn-outline" href="reviews.html#review-shenxing">完整评测档案 →</a>
               </div>
             </article>
@@ -215,7 +215,7 @@ window.SITE_CONTENT = {
                 <span class="tag">全 IPLC 专线</span>
               </div>
               <div style="display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;">
-                <a class="btn btn-primary" href="http://853vip01.liulianyunaff.com/#/?code=O6mS8K5N" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
+                <a class="btn btn-primary" href="https://liuajie74.liulianyunaff.com/#/?code=rp2bbeus" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
                 <a class="btn btn-outline" href="reviews.html#review-liulian">完整评测档案 →</a>
               </div>
             </article>
@@ -233,7 +233,7 @@ window.SITE_CONTENT = {
                 <span class="tag">多设备共享</span>
               </div>
               <div style="display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;">
-                <a class="btn btn-primary" href="https://123pps01.huanqiutiaff.com/#/?code=iJzShI5m" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
+                <a class="btn btn-primary" href="https://liuajie740.huanqiutiaff.com/#/?code=1PrqjboO" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
                 <a class="btn btn-outline" href="reviews.html#review-huanqiu">完整评测档案 →</a>
               </div>
             </article>
@@ -285,7 +285,7 @@ window.SITE_CONTENT = {
                 <span class="tag">建议短周期</span>
               </div>
               <div style="display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;">
-                <a class="btn btn-primary" href="https://eothvip01.shandianshuaff.com/#/?code=qNodU3f6" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
+                <a class="btn btn-primary" href="https://liujie2.shandianshuaff.com/#/?code=vwBNE30O" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
                 <a class="btn btn-outline" href="reviews.html#review-shandian">完整评测档案 →</a>
               </div>
             </article>
@@ -1191,7 +1191,7 @@ window.SITE_CONTENT = {
               </div>
               <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
                 <span class="review-verified-tag">✓ 2026.10.11 · 已登录后台</span>
-                <a class="btn btn-primary" href="https://youxia01.yunjiexianaff.com/#/?code=8ImGvubv" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
+                <a class="btn btn-primary" href="https://liuajie7.yunjiexianaff.com/#/?code=AMWirEkQ" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
               </div>
             </div>
             <div class="metric-chips">
@@ -1244,7 +1244,7 @@ window.SITE_CONTENT = {
             <li><strong>排查自查：</strong>订阅更新失败：回到后台重新复制链接</li>
           </ul>
           <div class="review-actions-bar">
-            <a class="btn btn-primary" href="https://youxia01.yunjiexianaff.com/#/?code=8ImGvubv" target="_blank" rel="noopener sponsored">直达 云界线机场 官网入口 ↗</a>
+            <a class="btn btn-primary" href="https://liuajie7.yunjiexianaff.com/#/?code=AMWirEkQ" target="_blank" rel="noopener sponsored">直达 云界线机场 官网入口 ↗</a>
             <div class="internal-links-row">
               <span class="internal-links-label">站内导航：</span>
               <a class="internal-link" href="coupons.html">🏷️ 查优惠码</a>
@@ -1269,7 +1269,7 @@ window.SITE_CONTENT = {
               </div>
               <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
                 <span class="review-verified-tag">✓ 2026.10.11 · 已登录后台</span>
-                <a class="btn btn-primary" href="https://liu01.dalaoyunaff.com/#/?code=9A9fbKzz" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
+                <a class="btn btn-primary" href="https://liujie2.dalaoyunaff.com/#/?code=mmPDuc6r" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
               </div>
             </div>
             <div class="metric-chips">
@@ -1322,7 +1322,7 @@ window.SITE_CONTENT = {
             <li><strong>排查自查：</strong>无法访问入口：从原始推广链接重新检测</li>
           </ul>
           <div class="review-actions-bar">
-            <a class="btn btn-primary" href="https://liu01.dalaoyunaff.com/#/?code=9A9fbKzz" target="_blank" rel="noopener sponsored">直达 大佬云机场 官网入口 ↗</a>
+            <a class="btn btn-primary" href="https://liujie2.dalaoyunaff.com/#/?code=mmPDuc6r" target="_blank" rel="noopener sponsored">直达 大佬云机场 官网入口 ↗</a>
             <div class="internal-links-row">
               <span class="internal-links-label">站内导航：</span>
               <a class="internal-link" href="coupons.html">🏷️ 查优惠码</a>
@@ -1347,7 +1347,7 @@ window.SITE_CONTENT = {
               </div>
               <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
                 <span class="review-verified-tag">✓ 2026.10.11 · 已登录后台</span>
-                <a class="btn btn-primary" href="https://123pps01.huanqiutiaff.com/#/?code=iJzShI5m" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
+                <a class="btn btn-primary" href="https://liuajie740.huanqiutiaff.com/#/?code=1PrqjboO" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
               </div>
             </div>
             <div class="metric-chips">
@@ -1400,7 +1400,7 @@ window.SITE_CONTENT = {
             <li><strong>排查自查：</strong>晚高峰速度下降：更换线路并记录时间</li>
           </ul>
           <div class="review-actions-bar">
-            <a class="btn btn-primary" href="https://123pps01.huanqiutiaff.com/#/?code=iJzShI5m" target="_blank" rel="noopener sponsored">直达 环球梯机场 官网入口 ↗</a>
+            <a class="btn btn-primary" href="https://liuajie740.huanqiutiaff.com/#/?code=1PrqjboO" target="_blank" rel="noopener sponsored">直达 环球梯机场 官网入口 ↗</a>
             <div class="internal-links-row">
               <span class="internal-links-label">站内导航：</span>
               <a class="internal-link" href="coupons.html">🏷️ 查优惠码</a>
@@ -1425,7 +1425,7 @@ window.SITE_CONTENT = {
               </div>
               <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
                 <span class="review-verified-tag">⚠️ 2026.10.14 · 公开入口已恢复</span>
-                <a class="btn btn-primary" href="https://eothvip01.shandianshuaff.com/#/?code=qNodU3f6" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
+                <a class="btn btn-primary" href="https://liujie2.shandianshuaff.com/#/?code=vwBNE30O" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
               </div>
             </div>
             <div class="metric-chips">
@@ -1474,7 +1474,7 @@ window.SITE_CONTENT = {
             <li><strong>排查自查：</strong>注册成功但无订阅：联系官方客服确认订单</li>
           </ul>
           <div class="review-actions-bar">
-            <a class="btn btn-primary" href="https://eothvip01.shandianshuaff.com/#/?code=qNodU3f6" target="_blank" rel="noopener sponsored">直达 闪电鼠机场 官网入口 ↗</a>
+            <a class="btn btn-primary" href="https://liujie2.shandianshuaff.com/#/?code=vwBNE30O" target="_blank" rel="noopener sponsored">直达 闪电鼠机场 官网入口 ↗</a>
             <div class="internal-links-row">
               <span class="internal-links-label">站内导航：</span>
               <a class="internal-link" href="coupons.html">🏷️ 查优惠码</a>
@@ -1499,7 +1499,7 @@ window.SITE_CONTENT = {
               </div>
               <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
                 <span class="review-verified-tag">✓ 2026.10.11 · 已登录后台</span>
-                <a class="btn btn-primary" href="http://853vip01.liulianyunaff.com/#/?code=O6mS8K5N" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
+                <a class="btn btn-primary" href="https://liuajie74.liulianyunaff.com/#/?code=rp2bbeus" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
               </div>
             </div>
             <div class="metric-chips">
@@ -1553,7 +1553,7 @@ window.SITE_CONTENT = {
             <li><strong>排查自查：</strong>客户端报错：按下载中心教程重新安装或导入</li>
           </ul>
           <div class="review-actions-bar">
-            <a class="btn btn-primary" href="http://853vip01.liulianyunaff.com/#/?code=O6mS8K5N" target="_blank" rel="noopener sponsored">直达 榴莲云机场 官网入口 ↗</a>
+            <a class="btn btn-primary" href="https://liuajie74.liulianyunaff.com/#/?code=rp2bbeus" target="_blank" rel="noopener sponsored">直达 榴莲云机场 官网入口 ↗</a>
             <div class="internal-links-row">
               <span class="internal-links-label">站内导航：</span>
               <a class="internal-link" href="coupons.html">🏷️ 查优惠码</a>
@@ -1578,7 +1578,7 @@ window.SITE_CONTENT = {
               </div>
               <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
                 <span class="review-verified-tag">✓ 2026.10.11 · 已登录后台</span>
-                <a class="btn btn-primary" href="https://fugui0077.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
+                <a class="btn btn-primary" href="https://wuhan01.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
               </div>
             </div>
             <div class="metric-chips">
@@ -1631,7 +1631,7 @@ window.SITE_CONTENT = {
             <li><strong>排查自查：</strong>套餐流量描述不一致：以结账页和订单明细为准</li>
           </ul>
           <div class="review-actions-bar">
-            <a class="btn btn-primary" href="https://fugui0077.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达 神行加速 官网入口 ↗</a>
+            <a class="btn btn-primary" href="https://wuhan01.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达 神行加速 官网入口 ↗</a>
             <div class="internal-links-row">
               <span class="internal-links-label">站内导航：</span>
               <a class="internal-link" href="coupons.html">🏷️ 查优惠码</a>
@@ -2629,7 +2629,7 @@ window.SITE_CONTENT = {
                   <td><span class="status">正常</span><br><small>自动选优省心</small></td>
                   <td>
                     <div style="display:flex;gap:6px;flex-wrap:wrap;">
-                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://youxia01.yunjiexianaff.com/#/?code=8ImGvubv" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://liuajie7.yunjiexianaff.com/#/?code=AMWirEkQ" target="_blank" rel="noopener sponsored">官网 ↗</a>
                       <a class="btn btn-outline" style="padding:5px 10px;font-size:12px;" href="reviews.html#review-yunjiexian">评测</a>
                     </div>
                   </td>
@@ -2643,7 +2643,7 @@ window.SITE_CONTENT = {
                   <td><span class="status">正常</span><br><small>小而精小资首选</small></td>
                   <td>
                     <div style="display:flex;gap:6px;flex-wrap:wrap;">
-                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://liu01.dalaoyunaff.com/#/?code=9A9fbKzz" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://liujie2.dalaoyunaff.com/#/?code=mmPDuc6r" target="_blank" rel="noopener sponsored">官网 ↗</a>
                       <a class="btn btn-outline" style="padding:5px 10px;font-size:12px;" href="reviews.html#review-dalao">评测</a>
                     </div>
                   </td>
@@ -2657,7 +2657,7 @@ window.SITE_CONTENT = {
                   <td><span class="status">正常</span><br><small>低延迟优势突出</small></td>
                   <td>
                     <div style="display:flex;gap:6px;flex-wrap:wrap;">
-                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://fugui0077.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://wuhan01.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">官网 ↗</a>
                       <a class="btn btn-outline" style="padding:5px 10px;font-size:12px;" href="reviews.html#review-shenxing">评测</a>
                     </div>
                   </td>
@@ -2671,7 +2671,7 @@ window.SITE_CONTENT = {
                   <td><span class="status">正常</span><br><small>高频下载观影主力</small></td>
                   <td>
                     <div style="display:flex;gap:6px;flex-wrap:wrap;">
-                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="http://853vip01.liulianyunaff.com/#/?code=O6mS8K5N" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://liuajie74.liulianyunaff.com/#/?code=rp2bbeus" target="_blank" rel="noopener sponsored">官网 ↗</a>
                       <a class="btn btn-outline" style="padding:5px 10px;font-size:12px;" href="reviews.html#review-liulian">评测</a>
                     </div>
                   </td>
@@ -2685,7 +2685,7 @@ window.SITE_CONTENT = {
                   <td><span class="status">正常</span><br><small>容灾备用良好</small></td>
                   <td>
                     <div style="display:flex;gap:6px;flex-wrap:wrap;">
-                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://123pps01.huanqiutiaff.com/#/?code=iJzShI5m" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://liuajie740.huanqiutiaff.com/#/?code=1PrqjboO" target="_blank" rel="noopener sponsored">官网 ↗</a>
                       <a class="btn btn-outline" style="padding:5px 10px;font-size:12px;" href="reviews.html#review-huanqiu">评测</a>
                     </div>
                   </td>
@@ -2727,7 +2727,7 @@ window.SITE_CONTENT = {
                   <td><span class="status watch">观察</span><br><small>恢复期建议短周期验证</small></td>
                   <td>
                     <div style="display:flex;gap:6px;flex-wrap:wrap;">
-                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://eothvip01.shandianshuaff.com/#/?code=qNodU3f6" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://liujie2.shandianshuaff.com/#/?code=vwBNE30O" target="_blank" rel="noopener sponsored">官网 ↗</a>
                       <a class="btn btn-outline" style="padding:5px 10px;font-size:12px;" href="reviews.html#review-shandian">评测</a>
                     </div>
                   </td>
@@ -3516,7 +3516,7 @@ window.SITE_CONTENT = {
                   <td>轻云 / 凌云套餐可用</td>
                   <td>全 IPLC 专线 / 自动选优入口 / 50 节点四端一键导入</td>
                   <td>
-                    <a class="btn-sm-action btn-primary" href="https://youxia01.yunjiexianaff.com/#/?code=8ImGvubv" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                    <a class="btn-sm-action btn-primary" href="https://liuajie7.yunjiexianaff.com/#/?code=AMWirEkQ" target="_blank" rel="noopener sponsored">官网 ↗</a>
                     <a class="btn-sm-action btn-outline" href="reviews.html#review-yunjiexian">评测 →</a>
                   </td>
                 </tr>
@@ -3528,7 +3528,7 @@ window.SITE_CONTENT = {
                   <td>福利版及提升版套餐</td>
                   <td>全 IPLC/IEPL 专线 / 初云福利版 ¥19.99 起</td>
                   <td>
-                    <a class="btn-sm-action btn-primary" href="https://liu01.dalaoyunaff.com/#/?code=9A9fbKzz" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                    <a class="btn-sm-action btn-primary" href="https://liujie2.dalaoyunaff.com/#/?code=mmPDuc6r" target="_blank" rel="noopener sponsored">官网 ↗</a>
                     <a class="btn-sm-action btn-outline" href="reviews.html#review-dalao">评测 →</a>
                   </td>
                 </tr>
@@ -3540,7 +3540,7 @@ window.SITE_CONTENT = {
                   <td>学生年付及轻享月付</td>
                   <td>BGP 多线融合 / 99.99% SLA / 自动跳转多备用入口</td>
                   <td>
-                    <a class="btn-sm-action btn-primary" href="https://123pps01.huanqiutiaff.com/#/?code=iJzShI5m" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                    <a class="btn-sm-action btn-primary" href="https://liuajie740.huanqiutiaff.com/#/?code=1PrqjboO" target="_blank" rel="noopener sponsored">官网 ↗</a>
                     <a class="btn-sm-action btn-outline" href="reviews.html#review-huanqiu">评测 →</a>
                   </td>
                 </tr>
@@ -3552,7 +3552,7 @@ window.SITE_CONTENT = {
                   <td>恢复期体验套餐可用</td>
                   <td>6 条入口恢复 / 最快 863ms / 建议短周期体验</td>
                   <td>
-                    <a class="btn-sm-action btn-primary" href="https://eothvip01.shandianshuaff.com/#/?code=qNodU3f6" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                    <a class="btn-sm-action btn-primary" href="https://liujie2.shandianshuaff.com/#/?code=vwBNE30O" target="_blank" rel="noopener sponsored">官网 ↗</a>
                     <a class="btn-sm-action btn-outline" href="reviews.html#review-shandian">评测 →</a>
                   </td>
                 </tr>
@@ -3576,7 +3576,7 @@ window.SITE_CONTENT = {
                   <td>轻享 / 畅享 / 大黑刺全周期</td>
                   <td>全 IPLC 专线 / 最高 2.5Gbps / 原生 IP 适合大流量</td>
                   <td>
-                    <a class="btn-sm-action btn-primary" href="http://853vip01.liulianyunaff.com/#/?code=O6mS8K5N" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                    <a class="btn-sm-action btn-primary" href="https://liuajie74.liulianyunaff.com/#/?code=rp2bbeus" target="_blank" rel="noopener sponsored">官网 ↗</a>
                     <a class="btn-sm-action btn-outline" href="reviews.html#review-liulian">评测 →</a>
                   </td>
                 </tr>
@@ -3588,7 +3588,7 @@ window.SITE_CONTENT = {
                   <td>尝鲜包与基础包通用</td>
                   <td>全 IPLC 专线 / 50 节点全在线 / 延迟 23ms 流媒体原生解锁</td>
                   <td>
-                    <a class="btn-sm-action btn-primary" href="https://fugui0077.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                    <a class="btn-sm-action btn-primary" href="https://wuhan01.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">官网 ↗</a>
                     <a class="btn-sm-action btn-outline" href="reviews.html#review-shenxing">评测 →</a>
                   </td>
                 </tr>
