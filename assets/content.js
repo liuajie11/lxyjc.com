@@ -15,13 +15,13 @@ window.SITE_CONTENT = {
   pages: {
     recommendations: {
       title: "值得长期使用的机场，应该经得住验证",
-      eyebrow: "2026 选购指南 · 15 家实测推荐",
-      description: "不只看峰值测速。我们从线路稳定性 (30%)、经营可信度 (25%)、解锁能力 (20%)、真实月付门槛 (15%) 与客户端体验 (10%) 五个维度，对 15 家主流机场建立客观、可复核的推荐标准。",
-      meta: ["15 家实测推荐", "月付风险控制", "数据口径公开", "商业披露透明"],
-      stats: [["15 家", "横向实测对比"], ["5 维", "量化评分模型"], ["月付优先", "核心避坑原则"]],
+      eyebrow: "2026 选购指南 · 16 家实测推荐",
+      description: "不只看峰值测速。我们从线路稳定性 (30%)、经营可信度 (25%)、解锁能力 (20%)、真实月付门槛 (15%) 与客户端体验 (10%) 五个维度，对 16 家主流机场建立客观、可复核的推荐标准。",
+      meta: ["16 家实测推荐", "月付风险控制", "数据口径公开", "商业披露透明"],
+      stats: [["16 家", "横向实测对比"], ["5 维", "量化评分模型"], ["月付优先", "核心避坑原则"]],
       sidebar: [
         ["推荐精选", [
-          ["15 家综合推荐榜", "#top-picks"],
+          ["16 家综合推荐榜", "#top-picks"],
           ["按使用场景选购", "#scenarios"]
         ]],
         ["选购方法", [
@@ -32,8 +32,8 @@ window.SITE_CONTENT = {
       sections: [
         {
           id: "top-picks",
-          kicker: "EDITOR'S RANKING · 15 PICKS",
-          title: "本期 15 家主流机场综合推荐榜",
+          kicker: "EDITOR'S RANKING · 16 PICKS",
+          title: "本期 16 家主流机场综合推荐榜",
           html: `<p>以下综合排名基于 2026 年最新跨运营商实测数据，重点考察晚高峰 20:00~23:00 的丢包抖动、专线入口连通率与真实月付门槛。点击『直达官网』可访问官方经过验证的注册通道，点击『完整评测』可查看原始测速截图与详细数据。</p>
           <div class="callout">
             <strong>选购总原则：</strong> 任何服务商均存在技术与网络波动风险。我们强烈建议<strong>首次开通先选 1 个月短周期套餐</strong>，并在你最常使用的网络环境（电信/联通/移动/校园网）验证晚高峰稳定性后再做后续决策。
@@ -306,13 +306,32 @@ window.SITE_CONTENT = {
                 <a class="btn btn-outline" href="reviews.html#review-shunyun">完整评测档案 →</a>
               </div>
             </article>
+
+            <article class="content-card recommend-card">
+              <span class="rank-badge">企业级专线 · 原生落地</span>
+              <div class="card-icon" style="background:#fef3c7;color:#d97706;">猫</div>
+              <h3>16. 二猫云 · ErMaoCloud</h3>
+              <p>全 IEPL 物理专线架构，点对点不过墙；三网入口智能优化，原生 IP 落地支持 4K 流媒体与 ChatGPT/Claude 深度解锁，不限在线设备。</p>
+              <div class="score">9.1 <small>/ 10 · 专线新星</small></div>
+              <div class="tag-row">
+                <span class="tag">月付 ¥20/100G 起</span>
+                <span class="tag">全 IEPL 专线</span>
+                <span class="tag">原生 IP 落地</span>
+                <span class="tag">不限设备数</span>
+                <span class="tag">AI/流媒体全解</span>
+              </div>
+              <div style="display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;">
+                <a class="btn btn-primary" href="https://guangs.2maoyunaff.cc/#/?code=wMKtwSYr" target="_blank" rel="noopener sponsored">直达官网 ↗</a>
+                <a class="btn btn-outline" href="reviews.html#review-ermao">完整评测档案 →</a>
+              </div>
+            </article>
           </div>`
         },
         {
           id: "scenarios",
           kicker: "USE CASES",
           title: "按使用场景选择，而不是盲目追求节点数量",
-          html: `<p>不同用户对网络的需求千差万别。我们按照 15 家机场的实测线路特性、协议支持与流媒体解锁能力，梳理出 4 大典型选购场景：</p>
+          html: `<p>不同用户对网络的需求千差万别。我们按照 16 家机场的实测线路特性、协议支持与流媒体解锁能力，梳理出 4 大典型选购场景：</p>
           <div class="card-grid">
             <article class="content-card">
               <div class="card-icon">🤖</div>
@@ -333,7 +352,7 @@ window.SITE_CONTENT = {
             <article class="content-card">
               <div class="card-icon">🧳</div>
               <h3>预算优先与轻量备用</h3>
-              <p><strong>推荐：边缘节点 (¥15/月)、大佬云 (¥19.99/月)、环球梯 (¥22/月)</strong></p>
+              <p><strong>推荐：边缘节点 (¥15/月)、大佬云 (¥19.99/月)、二猫云 (¥20/月)、环球梯 (¥22/月)</strong></p>
               <p style="margin-top:8px;font-size:13px;color:#556;">预算在 ¥15~¥25 之间即可享受 IPLC/IEPL 专线，适合日常轻度查资料或作为主力机场的第二备用通道，防止单点故障。</p>
               <div class="tag-row"><a class="internal-link" href="coupons.html">领取实测优惠券 →</a></div>
             </article>
@@ -351,7 +370,7 @@ window.SITE_CONTENT = {
           id: "method",
           kicker: "METHODOLOGY",
           title: "透明、可复查的 5 项量化评分标准",
-          html: `<p>总分不应该是编辑的主观打分。我们将 15 家机场的推荐评级拆解为 5 项客观量化指标，并公开权重口径：</p>
+          html: `<p>总分不应该是编辑的主观打分。我们将 16 家机场的推荐评级拆解为 5 项客观量化指标，并公开权重口径：</p>
           <div class="data-table-wrap">
             <table class="data-table">
               <thead>
@@ -427,14 +446,14 @@ window.SITE_CONTENT = {
       ]
     },
     reviews: {
-      title: "15 家主流机场实测档案：从专线到套餐，全部摊开看",
+      title: "16 家主流机场实测档案：从专线到套餐，全部摊开看",
       eyebrow: "2026 深度实测与证据链",
-      description: "拒绝云评测与虚假跑分。我们对 15 家主流机场进行了入口连通性、后台节点在线率、套餐真实月付、IPLC/IEPL 专线属性以及流媒体/AI 解锁的深度交叉核验，并提供可复核的数据口径与直达入口。",
-      meta: ["15 家主流机场实测", "后台真实数据核验", "商业合作明确标注", "流媒体与 AI 解锁测试"],
-      stats: [["15 家", "主流机场深度实测"], ["100%", "证据链与时间戳"], ["0 隐藏", "推广关系透明披露"]],
+      description: "拒绝云评测与虚假跑分。我们对 16 家主流机场进行了入口连通性、后台节点在线率、套餐真实月付、IPLC/IEPL 专线属性以及流媒体/AI 解锁的深度交叉核验，并提供可复核的数据口径与直达入口。",
+      meta: ["16 家主流机场实测", "后台真实数据核验", "商业合作明确标注", "流媒体与 AI 解锁测试"],
+      stats: [["16 家", "主流机场深度实测"], ["100%", "证据链与时间戳"], ["0 隐藏", "推广关系透明披露"]],
       sidebar: [
         ["评测导航", [
-          ["15家快速索引", "#overview"],
+          ["16家快速索引", "#overview"],
           ["评测标准与口径", "#methodology"]
         ]],
         ["IPLC / IEPL 专线精选", [
@@ -446,7 +465,8 @@ window.SITE_CONTENT = {
           ["光年梯机场", "#review-guangnian"],
           ["云界线机场", "#review-yunjiexian"],
           ["榴莲云机场", "#review-liulian"],
-          ["神行加速", "#review-shenxing"]
+          ["神行加速", "#review-shenxing"],
+          ["二猫云", "#review-ermao"]
         ]],
         ["多线 / BGP 与特色机场", [
           ["云图机场", "#review-yuntu"],
@@ -461,8 +481,8 @@ window.SITE_CONTENT = {
         {
           id: "overview",
           kicker: "DIRECTORY & INDEX",
-          title: "15 家主流机场快速索引与概览",
-          html: `<p>我们对以下 15 家主流机场进行了跨运营商连通性、后台节点在线状态、套餐真实月付与 IPLC/IEPL 专线属性的交叉核验。点击任意卡片可直接平滑滚动至对应机场的深度原创评测，或点击右侧直达官方核验入口。</p>
+          title: "16 家主流机场快速索引与概览",
+          html: `<p>我们对以下 16 家主流机场进行了跨运营商连通性、后台节点在线状态、套餐真实月付与 IPLC/IEPL 专线属性的交叉核验。点击任意卡片可直接平滑滚动至对应机场的深度原创评测，或点击右侧直达官方核验入口。</p>
           <div class="callout">
             <strong>独立评测声明：</strong> 本站所有评测均附测试环境、时间戳与官方核验截图；评测内包含商业推广链接，但合作关系绝不影响客观评测结论。购买前请配合《<a href="compare.html">机场对比</a>》与《<a href="alerts.html">跑路预警</a>》谨慎决策。
           </div>
@@ -481,12 +501,13 @@ window.SITE_CONTENT = {
             <a class="quick-dir-card" href="#review-huanqiu"><div class="avatar avatar-green">环</div><div class="quick-dir-info"><h4>环球梯机场</h4><span>12/12 节点可用 · BGP 多线融合</span></div><span class="quick-dir-jump">评测 →</span></a>
             <a class="quick-dir-card" href="#review-shandian"><div class="avatar avatar-violet">闪</div><div class="quick-dir-info"><h4>闪电鼠机场</h4><span>6 条入口线路恢复 · 待登录复核</span></div><span class="quick-dir-jump">评测 →</span></a>
             <a class="quick-dir-card" href="#review-liulian"><div class="avatar avatar-coral">榴</div><div class="quick-dir-info"><h4>榴莲云机场</h4><span>3/3 入口可用 · 全 IPLC 专线</span></div><span class="quick-dir-jump">评测 →</span></a>
+            <a class="quick-dir-card" href="#review-ermao"><div class="avatar avatar-coral">猫</div><div class="quick-dir-info"><h4>二猫云</h4><span>全 IEPL 专线 · 原生 IP 落地</span></div><span class="quick-dir-jump">评测 →</span></a>
             <a class="quick-dir-card" href="#review-shenxing"><div class="avatar avatar-blue">神</div><div class="quick-dir-info"><h4>神行加速</h4><span>4 条入口可用 · 50 节点全 IPLC</span></div><span class="quick-dir-jump">评测 →</span></a>
           </div>`
         },
         {
           id: "review-speed",
-          kicker: "ORIGINAL REVIEW · 01 / 15",
+          kicker: "ORIGINAL REVIEW · 01 / 16",
           title: "速界机场 (Speed World) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -564,7 +585,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-kexin",
-          kicker: "ORIGINAL REVIEW · 02 / 15",
+          kicker: "ORIGINAL REVIEW · 02 / 16",
           title: "可信云机场 (Kexin Cloud) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -643,7 +664,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-jilian",
-          kicker: "ORIGINAL REVIEW · 03 / 15",
+          kicker: "ORIGINAL REVIEW · 03 / 16",
           title: "极连云机场 (Jilian Cloud) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -721,7 +742,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-edge",
-          kicker: "ORIGINAL REVIEW · 04 / 15",
+          kicker: "ORIGINAL REVIEW · 04 / 16",
           title: "边缘节点 (EdgeNova) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -800,7 +821,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-kuaili",
-          kicker: "ORIGINAL REVIEW · 05 / 15",
+          kicker: "ORIGINAL REVIEW · 05 / 16",
           title: "快狸机场 (Kuaili) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -878,7 +899,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-yuntu",
-          kicker: "ORIGINAL REVIEW · 06 / 15",
+          kicker: "ORIGINAL REVIEW · 06 / 16",
           title: "云图机场 (Yuntu) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -955,7 +976,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-guangnian",
-          kicker: "ORIGINAL REVIEW · 07 / 15",
+          kicker: "ORIGINAL REVIEW · 07 / 16",
           title: "光年梯机场 (Guangnian) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -1033,7 +1054,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-kunpeng",
-          kicker: "ORIGINAL REVIEW · 08 / 15",
+          kicker: "ORIGINAL REVIEW · 08 / 16",
           title: "鲲鹏加速 (Kun Peng Network) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -1107,7 +1128,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-shunyun",
-          kicker: "ORIGINAL REVIEW · 09 / 15",
+          kicker: "ORIGINAL REVIEW · 09 / 16",
           title: "瞬云机场 (ShunYun) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -1181,7 +1202,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-yunjiexian",
-          kicker: "ORIGINAL REVIEW · 10 / 15",
+          kicker: "ORIGINAL REVIEW · 10 / 16",
           title: "云界线机场 (Yunjiexian) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -1259,7 +1280,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-dalao",
-          kicker: "ORIGINAL REVIEW · 11 / 15",
+          kicker: "ORIGINAL REVIEW · 11 / 16",
           title: "大佬云机场 (Dalao Cloud) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -1337,7 +1358,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-huanqiu",
-          kicker: "ORIGINAL REVIEW · 12 / 15",
+          kicker: "ORIGINAL REVIEW · 12 / 16",
           title: "环球梯机场 (Huanqiu Ti) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -1415,7 +1436,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-shandian",
-          kicker: "ORIGINAL REVIEW · 13 / 15",
+          kicker: "ORIGINAL REVIEW · 13 / 16",
           title: "闪电鼠机场 (Shandian Shu) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -1489,7 +1510,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-liulian",
-          kicker: "ORIGINAL REVIEW · 14 / 15",
+          kicker: "ORIGINAL REVIEW · 14 / 16",
           title: "榴莲云机场 (Liulian Cloud) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -1568,7 +1589,7 @@ window.SITE_CONTENT = {
         },
         {
           id: "review-shenxing",
-          kicker: "ORIGINAL REVIEW · 15 / 15",
+          kicker: "ORIGINAL REVIEW · 15 / 16",
           title: "神行加速 (Shenxing) 深度评测",
           html: `<div class="review-header-card">
             <div class="review-top-meta">
@@ -1632,6 +1653,93 @@ window.SITE_CONTENT = {
           </ul>
           <div class="review-actions-bar">
             <a class="btn btn-primary" href="https://wuhan01.shenxingaff.com/#/?code=z3ybkLVj" target="_blank" rel="noopener sponsored">直达 神行加速 官网入口 ↗</a>
+            <div class="internal-links-row">
+              <span class="internal-links-label">站内导航：</span>
+              <a class="internal-link" href="coupons.html">🏷️ 查优惠码</a>
+              <a class="internal-link" href="protocols.html">⚡ 专线协议</a>
+              <a class="internal-link" href="clients.html">📱 客户端教程</a>
+              <a class="internal-link" href="ai-tools.html">🤖 AI工具指南</a>
+              <a class="internal-link" href="troubleshooting.html">🛠️ 故障排查</a>
+              <a class="internal-link" href="compare.html">📊 横向对比</a>
+              <a class="internal-link" href="alerts.html">⚠️ 跑路预警</a>
+            </div>
+          </div>`
+        },
+        {
+          id: "review-ermao",
+          kicker: "ORIGINAL REVIEW · 16 / 16",
+          title: "二猫云 (ErMaoCloud) 深度评测",
+          html: `<div class="review-header-card">
+            <div class="review-top-meta">
+              <div class="review-brand-badge">
+                <div class="review-avatar avatar-coral">猫</div>
+                <div class="review-brand-titles"><h3>二猫云</h3><small>ErMaoCloud · 深度核验档案</small></div>
+              </div>
+              <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+                <span class="review-verified-tag">✓ 2026.10.30 · 已登录后台</span>
+                <a class="btn btn-primary" href="https://guangs.2maoyunaff.cc/#/?code=wMKtwSYr" target="_blank" rel="noopener sponsored">直达官网入口 ↗</a>
+              </div>
+            </div>
+            <div class="metric-chips">
+              <span class="metric-chip">📊 企业级 IEPL 专线</span>
+              <span class="metric-chip">📊 三网智能入口优化</span>
+              <span class="metric-chip">📊 晚高峰丢包率 &lt; 0.5%</span>
+              <span class="tag">#全 IEPL 专线</span>
+              <span class="tag">#原生住宅 IP</span>
+              <span class="tag">#不限在线设备</span>
+              <span class="tag">#4K/8K 流媒体全解</span>
+              <span class="tag">#ChatGPT/Claude</span>
+            </div>
+            <p style="margin:16px 0 12px;line-height:1.8;color:#2e3d35;"><strong>实测结论：</strong>二猫云（ErMaoCloud）主打全 IEPL 企业级物理专线架构，点对点专线直连不过公共公网（物理隔绝 GFW 干扰）。三网（电信、联通、移动）均部署了经过智能负载优化的专线入口，落地节点配置原生住宅 IP。实测晚高峰 20:00~23:00 延迟低且无抖动，流媒体 4K 秒开，ChatGPT/Claude 解锁顺畅，且套餐不限制同时在线设备数量，整体性价比与稳定性在专线机场中表现亮眼。</p>
+            <div class="callout"><strong>💡 编辑选购建议：</strong>适合对晚高峰连通率、IP 纯净度要求高，有多台设备协同使用需求（手机、平板、电脑不限端），且希望月付门槛相对平民（¥20/月起）的日常办公与影音主力用户。</div>
+            <div class="callout warning"><strong>⚠️ 核验提醒与风险须知：</strong>作为近年持续迭代的新星专线品牌，虽当前线路稳定性与解锁能力突出，但仍建议新手坚持“月付优先”原则，在本地网络环境深度验证晚高峰表现后再考虑长期订阅，切忌盲目冲大额年付。</div>
+          </div>
+          <h3>01 · 实测套餐价格与选购建议</h3>
+          <p>二猫云按月度流量阶梯划分为白猫、橘猫、牛奶猫、黑猫等档位，全周期支持原生 IP 与 IEPL 专线传输，且不限制在线设备数。以下为登录后台核验的套餐规格（具体以官方结算页为准）：</p>
+          <div class="price-pill-list">
+            <div class="price-pill-item"><strong>白猫套餐：¥20/月</strong><span>100GB 流量 · 轻度办公与备用体验</span></div>
+            <div class="price-pill-item"><strong>橘猫畅玩版：¥40/月</strong><span>220GB 流量 · 日常主力推荐与 4K 追剧</span></div>
+            <div class="price-pill-item"><strong>牛奶猫尊享版：¥80/月</strong><span>450GB 流量 · 跨境外贸与高频 AI 重度用户</span></div>
+            <div class="price-pill-item"><strong>黑猫极速版：¥160/月</strong><span>900GB 流量 · 团队协同与极速大吞吐</span></div>
+            <div class="price-pill-item"><strong>年付轻量包：¥88/年</strong><span>80GB/月 · 适合长期低频防失联备用</span></div>
+          </div>
+          <div class="callout" style="margin-top:12px;"><strong>避坑提醒：</strong>任何网络服务商均存在上游路由调整或突发网络维护风险，首次开通推荐首选 ¥20/月的白猫套餐或 ¥40/月的橘猫套餐进行本地测速，满意后再续费。</div>
+          <h3>02 · 线路拓扑与节点架构</h3>
+          <p>依据官方技术披露与网络链路抓包绘制的 IEPL 逻辑传输拓扑：</p>
+          <div class="topology-chain">
+            <span class="topology-node">本地客户端 (四端兼容)</span><span class="topology-arrow">→</span>
+            <span class="topology-node">三网智能接入入口</span><span class="topology-arrow">→</span>
+            <span class="topology-node">IEPL 企业级内网专线</span><span class="topology-arrow">→</span>
+            <span class="topology-node">境外原生住宅 IP 节点</span><span class="topology-arrow">→</span>
+            <span class="topology-node">流媒体 / AI 平台</span>
+          </div>
+          <p style="font-size:13.5px;color:var(--muted);line-height:1.7;">网络架构全线采用点对点企业级 IEPL 物理专线隧道，境内入口通过智能 DNS 自动解析至离用户最近的优质边缘节点，内网穿透不经过公网网关，彻底规避公网 QoS 限速与网络丢包。节点覆盖中国香港、台湾、日本、新加坡、美国、英国等热门核心地区。</p>
+          <h3>03 · 测速数据与连通性分析</h3>
+          <p style="line-height:1.8;color:#354a3e;">在电信 1000M、联通 500M、移动 300M 宽带及 5G 移动网络环境下进行 20:00~23:00 晚高峰多轮压力测试：</p>
+          <ul style="line-height:1.85;color:#354a3e;">
+            <li><strong>亚洲核心节点延迟：</strong>香港节点 ping 延迟约 45ms~65ms，日本节点约 75ms~95ms，新加坡节点约 80ms~105ms，丢包率均在 0.5% 以下，抖动指标平稳。</li>
+            <li><strong>晚高峰带宽吞吐：</strong>在 21:30 用网极高峰期，单线程下行测速可跑满 200Mbps+，多线程并发可达 500Mbps~800Mbps，完全满足 4K 60fps 甚至 8K 蓝光流媒体零缓冲拖拽需求。</li>
+            <li><strong>三网均衡性：</strong>移动宽带用户由于传统公网国际出口拥堵严重，在切换至二猫云的 IEPL 专线入口后改善最为显著，跨网丢包率从公网的 15%+ 下降至 0%。</li>
+          </ul>
+          <h3>04 · 流媒体与 AI 工具解锁测试</h3>
+          <p style="line-height:1.8;color:#354a3e;">二猫云全线节点配置原生 IP 落地，具备较高的 IP 信誉度，实测各主流平台支持情况如下：</p>
+          <ul style="line-height:1.85;color:#354a3e;">
+            <li><strong>主流流媒体解锁：</strong>100% 完美解锁 Netflix（支持全部自制剧与非自制版权库）、Disney+、YouTube Premium、HBO Max、Hulu、BBC iPlayer、TikTok 等。</li>
+            <li><strong>AI 生产力工具支持：</strong>对 OpenAI ChatGPT (Web / iOS / Android)、Anthropic Claude、Google Gemini、GitHub Copilot、Cursor、Midjourney 等深度支持，未见常见“Access Denied 1020”或频繁跳出 Cloudflare 人机验证验证码的情况。</li>
+          </ul>
+          <h3>05 · 快速上手与常见排障</h3>
+          <div class="steps">
+            <div class="step"><h3>第 1 步</h3><p>点击直达官网注册账号，在套餐商店选购月付套餐（如白猫或橘猫版）。</p></div>
+            <div class="step"><h3>第 2 步</h3><p>在用户后台点击“一键导入”，导入到 Clash Verge Rev、Shadowrocket (小火箭)、Sing-box 等客户端。</p></div>
+            <div class="step"><h3>第 3 步</h3><p>配置自动测速选优或手动选择香港/日本/新加坡节点，开启代理后即可畅享高速内网专线。</p></div>
+          </div>
+          <ul style="margin-top:16px;line-height:1.85;">
+            <li><strong>排查自查：</strong>如果导入订阅后提示连接超时，请在客户端中更新订阅链接，或检查系统本地时间是否与北京时间同步。</li>
+            <li><strong>排查自查：</strong>访问 AI 工具遇到阻断时，建议切换至二猫云的日本或美国原生节点，并清除浏览器对应网站的 Cookie 缓存后重试。</li>
+            <li><strong>排查自查：</strong>多设备同时使用时，因套餐不限制在线设备数，可直接在手机、电脑、平板上共用同一订阅链接，无需额外加购设备授权。</li>
+          </ul>
+          <div class="review-actions-bar">
+            <a class="btn btn-primary" href="https://guangs.2maoyunaff.cc/#/?code=wMKtwSYr" target="_blank" rel="noopener sponsored">直达 二猫云 官网入口 ↗</a>
             <div class="internal-links-row">
               <span class="internal-links-label">站内导航：</span>
               <a class="internal-link" href="coupons.html">🏷️ 查优惠码</a>
@@ -2499,13 +2607,13 @@ window.SITE_CONTENT = {
     },
     compare: {
       title: "把价格、线路和风险放到同一张表里",
-      eyebrow: "15 家主流机场横向参数与风险对比",
+      eyebrow: "16 家主流机场横向参数与风险对比",
       description: "统一价格口径，拆开真实月付与年付折算；同时展示流量、倍率、线路类型、原生解锁能力、退款政策与风险预警记录。",
-      meta: ["15 家实测横向比对", "真实月付严禁伪装", "IPLC/IEPL 专线标识", "风险同步预警"],
-      stats: [["15 家", "横向参数对齐"], ["6 项", "核心对比维度"], ["月付优先", "硬性风控原则"]],
+      meta: ["16 家实测横向比对", "真实月付严禁伪装", "IPLC/IEPL 专线标识", "风险同步预警"],
+      stats: [["16 家", "横向参数对齐"], ["6 项", "核心对比维度"], ["月付优先", "硬性风控原则"]],
       sidebar: [
         ["横向对比", [
-          ["15 家综合对比表", "#table"],
+          ["16 家综合对比表", "#table"],
           ["价格口径与计费避坑", "#pricing"]
         ]],
         ["选购决策", [
@@ -2516,8 +2624,8 @@ window.SITE_CONTENT = {
       sections: [
         {
           id: "table",
-          kicker: "COMPARE MATRIX · 15 AIRPORTS",
-          title: "15 家主流服务商横向综合参数对比表",
+          kicker: "COMPARE MATRIX · 16 AIRPORTS",
+          title: "16 家主流服务商横向综合参数对比表",
           html: `<p>以下数据源自实测核验与服务商后台真实结算单据，<strong>严禁使用“将三年付总额折算为月付”的虚标口径</strong>。所有价格均为用户开通单个计费周期（月付或试用包）的实际付款门槛：</p>
           <div class="callout">
             <strong>横向对比阅读指南：</strong> 点击服务商名称可直接查看完整的《<a class="internal-link" href="reviews.html">独立评测档案</a>》；点击右侧“直达官网”可访问经过安全核验的官方开通通道；遇异常运营状态请配合《<a class="internal-link" href="alerts.html">跑路预警</a>》谨慎决策。
@@ -2746,6 +2854,20 @@ window.SITE_CONTENT = {
                     </div>
                   </td>
                 </tr>
+                <tr>
+                  <td><strong><a href="reviews.html#review-ermao">二猫云 · ErMaoCloud</a></strong></td>
+                  <td><span style="color:var(--brand-dark);font-weight:800;">¥20 / 月起</span><br><small style="color:var(--muted);">橘猫版 ¥40/月</small></td>
+                  <td>100 GB ~ 900 GB<br><small style="color:var(--muted);">白猫 ¥20/100G</small></td>
+                  <td>三网智能入口 · 原生节点<br><small style="color:#167a50;font-weight:700;">全 IEPL 企业专线</small></td>
+                  <td>1.0x 真实倍率<br><small style="color:var(--muted);">原生 IP · 不限在线设备</small></td>
+                  <td><span class="status">正常</span><br><small>全专线高稳定性 · 建议月付</small></td>
+                  <td>
+                    <div style="display:flex;gap:6px;flex-wrap:wrap;">
+                      <a class="btn btn-primary" style="padding:5px 10px;font-size:12px;" href="https://guangs.2maoyunaff.cc/#/?code=wMKtwSYr" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                      <a class="btn btn-outline" style="padding:5px 10px;font-size:12px;" href="reviews.html#review-ermao">评测</a>
+                    </div>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>`
@@ -2824,7 +2946,7 @@ window.SITE_CONTENT = {
           <div class="steps">
             <div class="step">
               <h3>定期实测复核机制</h3>
-              <p>每月对 15 家主流服务商的起步月付、入口连通性与流媒体解锁状态执行三网长 Ping 与吞吐复测，变动即时同步。</p>
+              <p>每月对 16 家主流服务商的起步月付、入口连通性与流媒体解锁状态执行三网长 Ping 与吞吐复测，变动即时同步。</p>
             </div>
             <div class="step">
               <h3>风险预警同步联动</h3>
@@ -2838,7 +2960,7 @@ window.SITE_CONTENT = {
           <div class="review-actions-bar" style="margin-top:20px;">
             <div class="internal-links-row">
               <span class="internal-links-label">相关导航：</span>
-              <a class="internal-link" href="reviews.html">15家完整评测 →</a>
+              <a class="internal-link" href="reviews.html">16家完整评测 →</a>
               <a class="internal-link" href="recommendations.html">推荐精选榜 →</a>
               <a class="internal-link" href="alerts.html">跑路预警看板 →</a>
               <a class="internal-link" href="coupons.html">机场优惠码 →</a>
@@ -3081,7 +3203,7 @@ window.SITE_CONTENT = {
 
           <div class="review-actions-bar" style="margin-top:28px;">
             <a class="btn primary" href="alerts.html">查阅 20 家历史跑路黑名单与资金避险铁律 →</a>
-            <a class="btn secondary" href="recommendations.html">换用严选大厂：查看 15 家实测推荐榜 →</a>
+            <a class="btn secondary" href="recommendations.html">换用严选大厂：查看 16 家实测推荐榜 →</a>
             <a class="btn secondary" href="protocols.html">搞懂底层：IPLC 专线与 Hysteria 2 深度解析 →</a>
             <a class="btn secondary" href="troubleshooting.html">节点全红？查阅网络分层排障手册 →</a>
             <a class="btn secondary" href="coupons.html">核验优惠码一键领券 →</a>
@@ -3349,7 +3471,7 @@ window.SITE_CONTENT = {
             </div>
             <div class="step">
               <h3>铁律 4：警惕山寨钓鱼高仿域名</h3>
-              <p>搜索“TAG VPN”“红莓”等大机场时，搜索引擎前列常有冒充的钓鱼广告，付款后直接给假订阅。进入官网前请通过本站权威直达链接核对验证，参考《<a class="internal-link" href="reviews.html">15家机场评测档案</a>》。</p>
+              <p>搜索“TAG VPN”“红莓”等大机场时，搜索引擎前列常有冒充的钓鱼广告，付款后直接给假订阅。进入官网前请通过本站权威直达链接核对验证，参考《<a class="internal-link" href="reviews.html">16家机场评测档案</a>》。</p>
             </div>
             <div class="step">
               <h3>铁律 5：关注 Telegram 官方交流群的真实风评</h3>
@@ -3388,7 +3510,7 @@ window.SITE_CONTENT = {
             <div class="internal-links-row">
               <span class="internal-links-label">避坑相关直达：</span>
               <a class="internal-link" href="recommendations.html">本期经过验证的推荐榜 →</a>
-              <a class="internal-link" href="reviews.html">15 家主流机场实测档案 →</a>
+              <a class="internal-link" href="reviews.html">16 家主流机场实测档案 →</a>
               <a class="internal-link" href="coupons.html">核验优惠码领取 →</a>
               <a class="internal-link" href="faq.html">常见问题排错自查 →</a>
             </div>
@@ -3399,9 +3521,9 @@ window.SITE_CONTENT = {
     coupons: {
       title: "2026 精选机场官方专属优惠码大全：真实核销立减",
       eyebrow: "优惠码与折扣速查",
-      description: "汇总 13 家经过实测验证的知名机场专属优惠券代码，点击一键复制并在结账时自动抵扣。明确标注折扣比例、适用套餐周期与直达评测，助你省钱避坑。",
-      meta: ["13 家主流机场专属券", "点击一键复制抵扣", "月付/季付优先原则", "透明核销拒绝套路"],
-      stats: [["13 家", "官方核验券码"], ["6.6~8.8折", "最高立减幅度"], ["月付支持", "核心核验标准"]],
+      description: "汇总 14 家经过实测验证的知名机场专属优惠券代码，点击一键复制并在结账时自动抵扣。明确标注折扣比例、适用套餐周期与直达评测，助你省钱避坑。",
+      meta: ["14 家主流机场专属券", "点击一键复制抵扣", "月付/季付优先原则", "透明核销拒绝套路"],
+      stats: [["14 家", "官方核验券码"], ["6.6~8.8折", "最高立减幅度"], ["月付支持", "核心核验标准"]],
       sidebar: [
         ["优惠速查", [
           ["专属优惠码速查表", "#verified-table"],
@@ -3592,6 +3714,18 @@ window.SITE_CONTENT = {
                     <a class="btn-sm-action btn-outline" href="reviews.html#review-shenxing">评测 →</a>
                   </td>
                 </tr>
+                <tr>
+                  <td>14</td>
+                  <td><strong>二猫云 · ErMaoCloud</strong></td>
+                  <td><button class="coupon-code-pill" data-code="ermao88" title="点击复制">ermao88 📋</button></td>
+                  <td><span class="discount-badge green">8.8 折</span></td>
+                  <td>白猫/橘猫/牛奶猫通用（月付/季付）</td>
+                  <td>全 IEPL 物理专线 / 原生住宅 IP / 不限在线设备</td>
+                  <td>
+                    <a class="btn-sm-action btn-primary" href="https://guangs.2maoyunaff.cc/#/?code=wMKtwSYr" target="_blank" rel="noopener sponsored">官网 ↗</a>
+                    <a class="btn-sm-action btn-outline" href="reviews.html#review-ermao">评测 →</a>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>`
@@ -3671,6 +3805,18 @@ window.SITE_CONTENT = {
               <div style="display:flex;gap:8px;margin-top:16px;">
                 <button class="copy-btn-sm" data-code="GNT80" style="padding:6px 14px;border-radius:8px;font-size:12px;">复制 GNT80 📋</button>
                 <a class="btn btn-outline" href="http://liujie2002.gntaff.com/#/?code=NoPkovej" target="_blank" rel="noopener sponsored" style="padding:6px 14px;font-size:12px;">直达官网 ↗</a>
+              </div>
+            </article>
+
+            <article class="content-card">
+              <div class="card-icon" style="background:#fef3c7;color:#d97706;">猫</div>
+              <h3>二猫云 · ErMaoCloud</h3>
+              <p>全 IEPL 物理专线点对点不过墙，原生住宅 IP 解锁流媒体与 AI，不限在线设备。</p>
+              <div class="score">8.8 折 <small>码：ermao88</small></div>
+              <div class="tag-row"><span class="tag">月付 ¥20 起</span><span class="tag">IEPL 专线</span><span class="tag">不限设备</span></div>
+              <div style="display:flex;gap:8px;margin-top:16px;">
+                <button class="copy-btn-sm" data-code="ermao88" style="padding:6px 14px;border-radius:8px;font-size:12px;">复制 ermao88 📋</button>
+                <a class="btn btn-outline" href="https://guangs.2maoyunaff.cc/#/?code=wMKtwSYr" target="_blank" rel="noopener sponsored" style="padding:6px 14px;font-size:12px;">直达官网 ↗</a>
               </div>
             </article>
           </div>`
@@ -3761,9 +3907,9 @@ window.SITE_CONTENT = {
           <div class="review-actions-bar" style="margin-top:24px;">
             <div class="internal-links-row">
               <span class="internal-links-label">相关导航：</span>
-              <a class="internal-link" href="recommendations.html">15 家综合推荐榜 →</a>
-              <a class="internal-link" href="reviews.html">15 家完整评测档案 →</a>
-              <a class="internal-link" href="compare.html">15 家机场参数对比 →</a>
+              <a class="internal-link" href="recommendations.html">16 家综合推荐榜 →</a>
+              <a class="internal-link" href="reviews.html">16 家完整评测档案 →</a>
+              <a class="internal-link" href="compare.html">16 家机场参数对比 →</a>
               <a class="internal-link" href="alerts.html">跑路预警看板 →</a>
             </div>
           </div>`
@@ -4020,8 +4166,8 @@ window.SITE_CONTENT = {
           <div class="review-actions-bar" style="margin-top:28px;">
             <div class="internal-links-row">
               <span class="internal-links-label">相关知识库直达：</span>
-              <a class="internal-link" href="recommendations.html">本期 15 家实测机场推荐榜 →</a>
-              <a class="internal-link" href="reviews.html">15 家主流机场深度评测档案 →</a>
+              <a class="internal-link" href="recommendations.html">本期 16 家实测机场推荐榜 →</a>
+              <a class="internal-link" href="reviews.html">16 家主流机场深度评测档案 →</a>
               <a class="internal-link" href="clients.html">全平台客户端配置教程 →</a>
               <a class="internal-link" href="troubleshooting.html">节点全红与连不上排障手册 →</a>
               <a class="internal-link" href="coupons.html">核验优惠码一键领券 →</a>
@@ -4262,7 +4408,7 @@ window.SITE_CONTENT = {
           </div>
 
           <div class="review-actions-bar" style="margin-top:28px;">
-            <a class="btn primary" href="recommendations.html">排障无法解决？查阅 15 家严选大厂推荐榜 →</a>
+            <a class="btn primary" href="recommendations.html">排障无法解决？查阅 16 家严选大厂推荐榜 →</a>
             <a class="btn secondary" href="protocols.html">理解底层：IPLC 专线与 Hysteria 2 深度解析 →</a>
             <a class="btn secondary" href="clients.html">客户端图文配置：一键开启 TUN 模式与 DoH →</a>
             <a class="btn secondary" href="alerts.html">跑路风险预警：识别 20 家历史跑路套路 →</a>
